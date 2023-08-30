@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/maheswar-mahapatra-808121273" height="25" alt="linkedin logo"  />
-  <img src="https://twitter.com/Maheswar_110" height="25" alt="twitter logo"  />
-  <img src="https://www.instagram.com/maheswar_110" height="25" alt="instagram logo"  />
+  <img src="[https://www.linkedin.com/in/maheswar-mahapatra-808121273]" height="25" alt="linkedin logo"  />
+  <img src="[https://twitter.com/Maheswar_110]" height="25" alt="twitter logo"  />
+  <img src="[https://www.instagram.com/maheswar_110]" height="25" alt="instagram logo"  />
 </div>
 
 ###
