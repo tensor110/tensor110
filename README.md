@@ -8,7 +8,7 @@
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maheswar-mahapatra-808121273/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/soubhikgon_](https://www.instagram.com/maheswar_110/)) [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/Maheswar_110)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maheswar-mahapatra-808121273/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/soubhikgon_](https://www.instagram.com/maheswar_110/)) [![Twitter](https://img.shields.io/badge/Twitter-%000000.svg?logo=Twitter&logoColor=white)](https://twitter.com/Maheswar_110)
 
 
 ###
