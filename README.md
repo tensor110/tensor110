@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://www.linkedin.com/in/maheswar-mahapatra-808121273" height="25" alt="linkedin logo"  />
+  <img src="https://twitter.com/Maheswar_110" height="25" alt="twitter logo"  />
+  <img src="https://www.instagram.com/maheswar_110" height="25" alt="instagram logo"  />
 </div>
 
 ###
@@ -22,21 +22,21 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Maheswar Mahatatra from Bhubaneswar<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning React and Node.js
+<p align="center">I'm Maheswar Mahatatra from Bhubaneswar<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning React and Node.js
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Tech Stack:</h3>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,c,cpp,py,figma,tailwind,vite,vscode" />
   </a>
 </p>
 
