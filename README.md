@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,latex,c,cpp,py,figma,tailwind,vite,vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height = '10px' width = '10px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height = '310px' width = '310px/>
 
   </a>
 </p>
